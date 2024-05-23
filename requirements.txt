@@ -1,0 +1,8 @@
+streamlit == 1.34.0
+Pandas
+Wordcloud
+NLTK
+Emoji
+Seaborn
+Matplotlib
+Vadersentiment
