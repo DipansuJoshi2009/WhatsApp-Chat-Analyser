@@ -18,6 +18,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 # Download necessary NLTK resources
 nltk.download('stopwords')
 nltk.download('omw-1.4')
+nltk.download('wordnet')
 
 # st.title('WhatsApp Chat Analyser')
 st.sidebar.title('WhatsApp Chat Analyser')
